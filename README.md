@@ -1,1 +1,1 @@
-This is a little recipe list webpage made only with HTML 
+This is a little recipe list webpage made only with HTML, and some CSS practice
